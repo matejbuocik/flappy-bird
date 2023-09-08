@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "Flappy bird clone"
 authors = ["Matej Buocik <matej.buocik@gmail.com>"]
 readme = "README.md"
-packages = [{include = "flappy_bird"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
